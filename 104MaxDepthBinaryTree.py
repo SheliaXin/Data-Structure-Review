@@ -1,3 +1,6 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
